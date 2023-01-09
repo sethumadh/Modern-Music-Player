@@ -1,4 +1,5 @@
-# Lyriks
+# Modern-Music-Player
+
 
 ### Application Overview
 
@@ -8,14 +9,13 @@ Lyriks is a music application that allows users to view and listen to songs with
 
 Visit the application live demo.
 
-<Video/GIF/Screenshot of the application>
+https://bughunters-lyriks.vercel.app/
 
 ### Built With
 
-This application is built using many in-demand technologies, including Next.js for server-rendered React apps, TypeScript for type-checking and improved code maintainability, Redux Toolkit for managing application state, and Tailwind for rapid UI development. The application also utilizes the Shazam API to provide music recognition and discovery functionality. These technologies were carefully chosen to provide music lovers with a reliable and user-friendly experience.
+This application is built using many in-demand technologies, including Next.js for server-rendered React apps,, Redux Toolkit for managing application state, and Tailwind for rapid UI development. The application also utilizes the Shazam API to provide music recognition and discovery functionality. These technologies were carefully chosen to provide music lovers with a reliable and user-friendly experience.
 
 - **[Next.js](https://nextjs.org/)** - Next.js is a framework for building server-rendered or statically-exported React apps. It provides a set of tools and conventions for building scalable, high-performance web applications with React.
-- **[TypeScript](https://www.typescriptlang.org/)** - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It adds type checking and other features to JavaScript, making it easier to write and maintain large-scale applications.
 - **[Redux Toolkit](https://redux-toolkit.js.org/)** - Redux Toolkit is a set of opinionated libraries and utilities for building Redux applications. It provides a simple and easy-to-use API for managing application state, as well as many other helpful utilities and features.
 - **[Tailwind](https://tailwindcss.com/)** - Tailwind is a utility-first CSS framework for rapidly building custom designs. It provides a set of low-level utility classes that can be combined to create complex, responsive layouts, and user interfaces.
 - **[Shazam API](https://rapidapi.com/tipsters/api/shazam-core/)** - The Shazam API is an API for accessing music recognition and discovery services. It allows developers to integrate Shazam's music recognition technology into their own applications and build new music-related experiences.
@@ -55,14 +55,14 @@ Make sure you have all the necessary prerequisites installed on your system. Fol
 - Run the following command to clone the project from GitHub:
     
     ```bash
-    git clone https://github.com/JavaScript-Mastery-PRO/BitByBit_Lyriks.git
+    git clone https://github.com/sethumadh/Modern-Music-Player.git
     ```
     
 - This will create a new directory called "BitByBit_Lyriks" in the current location, containing the code for the Lyrics project.
 - Navigate to the project directory by running the following command:
     
     ```bash
-    cd BitByBit_Lyriks
+    cd Modern-Music-Player-main
     ```
     
 - Run the following command to install the project's dependencies using npm:
@@ -76,7 +76,7 @@ Make sure you have all the necessary prerequisites installed on your system. Fol
     2. Add the following variables to the **`.env`** file, replacing the placeholder values with your own:
     
     ```jsx
-    SHAZAM_API_KEY=<your-shazam-api-key>
+    NEXT_PUBLIC__SHAZAM_CORE_RAPID_API_KEY=<your-shazam-api-key>
     ```
     
     1. Save the **`.env`** file.
