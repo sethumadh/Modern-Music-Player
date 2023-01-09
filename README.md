@@ -11,6 +11,8 @@ Visit the application live demo.
 
 https://bughunters-lyriks.vercel.app/
 
+![Music_Player](https://user-images.githubusercontent.com/63349857/211302101-cbae59e0-e496-4c7f-8af9-bc4d41fc8a4e.png)
+
 ### Built With
 
 This application is built using many in-demand technologies, including Next.js for server-rendered React apps,, Redux Toolkit for managing application state, and Tailwind for rapid UI development. The application also utilizes the Shazam API to provide music recognition and discovery functionality. These technologies were carefully chosen to provide music lovers with a reliable and user-friendly experience.
