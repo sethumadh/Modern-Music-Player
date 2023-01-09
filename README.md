@@ -1,3 +1,5 @@
+Modern-Music-Player
+
 A Modern music player using Next JS Tailwind Redux Toolkit and Redux Toolkit Query
 
 Application Overview
